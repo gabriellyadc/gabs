@@ -1,4 +1,20 @@
-body(
-    bac
+body{
+    color: black;
+   background: gainsboro;
     font-family: "Playfair Display", serif;
-)
+    margin: 8px;
+    margin-bottom: 100px;
+}
+.chamada{
+    background: rgb(245, 145, 161) ;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+.header{
+    color: white;
+    font-size: 40px;
+    margin-bottom: solid 3px white;
+    padding: 20px;
+}
